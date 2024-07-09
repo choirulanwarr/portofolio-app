@@ -1,0 +1,131 @@
+[
+   {
+      "periode" : "Dec 2023 — Now",
+      "jobs" : "Backend Developer. ",
+      "company" : "Technoparner Indonesia",
+      "link": "https://technopartner.id/",
+      "description": "Develop and maintain applications using the Go programming language (Golang). Analyze project requirements and design efficient solutions. Write clean, efficient, and well-documented code. Carrying out debugging and testing to ensure the application runs smoothly and is free from bugs. Collaborate with other developer teams, Product Managers and Tech Leads to implement new features. Optimize the application for maximum performance and high scalability. Ensure application security by following best practices in software development. Provide technical support and solve problems that arise in existing applications.",
+      "skills": [
+         {
+            "language": "Golang"
+         },
+         {
+            "language": "PHP"
+         },
+         {
+            "language": "Javascript"
+         },
+         {
+            "language": "HTML"
+         }
+      ]
+   },
+   {
+      "periode" : "Feb 2020 - Jul 2023",
+      "jobs" : "Full Stack Developer. ",
+      "company" : "RSKIA Sadewa",
+      "link": "https://www.rskiasadewa.co.id/",
+      "description": "Developed, maintained, and shipped production Hospital Information System Server Maintenance (Linux OS), Networking Installation Paths, Create application programs according to hospital needs, Repair / Upgrade / migrate old applications with the latest framework, Improved Bridging between Government Agencies with Applications, Maintenance / Creating new computer units for employees",
+      "skills": [
+         {
+            "language": "PHP"
+         },
+         {
+            "language": "HTML"
+         },
+         {
+            "language": "Java"
+         },
+         {
+            "language": "Javascript"
+         },
+         {
+            "language": "Android Studio"
+         },
+         {
+            "language": "MySQL"
+         },
+         {
+            "language": "Wordpress"
+         },
+         {
+            "language": "Mikrotik"
+         },
+         {
+            "language": "Hardware"
+         },
+         {
+            "language": "Software"
+         },
+         {
+            "language": "Codeigniter"
+         }
+      ]
+   },
+   {
+      "periode" : "Dec 2019 - Now",
+      "jobs" : "Full Stack Developer. ",
+      "company" : "Alpha Solution Project",
+      "link": "https://alphalogic.web.id",
+      "description": "Developed, maintained, and shipped production Create frontend, backend web for customer needs, Create frontend Mobile Application for custome needs costume, Maintenance Software",
+      "skills": [
+         {
+            "language": "PHP"
+         },
+         {
+            "language": "HTML"
+         },
+         {
+            "language": "React Native"
+         },
+         {
+            "language": "Flutter"
+         },
+         {
+            "language": "Kotlin"
+         },
+         {
+            "language": "Java"
+         },
+         {
+            "language": "Javascripts"
+         },
+         {
+            "language": "Python"
+         },
+         {
+            "language": "Laravel"
+         },
+         {
+            "language": "Vue.js"
+         }
+      ]
+   },
+   {
+      "periode" : "Aug 2018 - Nov 2019",
+      "jobs" : "Full Stack Developer. ",
+      "company" : "PDAM Giritirtasari Wonogiri",
+      "link": "https://pdamwonogiri.com/",
+      "description": "Build, Maintenance and create Production website, Mobile application",
+      "skills": [
+         {
+            "language": "PHP"
+         },
+         {
+            "language": "HTML"
+         },
+         {
+            "language": "Kotlin"
+         },
+         {
+            "language": "Java"
+         },
+         {
+            "language" : "Codeigniter"
+         },
+         {
+            "language": "Android Studio"
+         }
+      ]
+   }
+]
