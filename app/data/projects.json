@@ -1,12 +1,93 @@
 [
    {
-      "title": "Build a simple Notes API using Golang",
-      "description": "web app for api notes using framework GIN using language Golang",
-      "img": "http://via.placeholder.com/200x144.png"
+      "title": "API Lexilaw Site",
+      "description": "Native app for client to ask lawyer very simple and easy. View your lawyer filed, booking lawyer and scheduling with lawyer. This app collect information client for lawyer.",
+      "img": "/projects/lexilaw.png",
+      "tech": [
+         {
+            "name" : "React JS" 
+         },
+         {
+            "name" : "Golang Gin" 
+         },
+         {
+            "name" : "PostgreSQL" 
+         },
+         {
+            "name" : "Mailchimp" 
+         },
+         {
+            "name" : "Calendly" 
+         },
+         {
+            "name" : "Midtrans" 
+         }
+      ],
+      "year" : "2024",
+      "name_app" : "lexilaw.com",
+      "link" : "https://www.google.com"
    },
    {
-      "title": "Build a simple",
-      "description": "web app for api simple",
-      "img": "http://via.placeholder.com/200x144.png"
+      "title": "API Sosialoka Site",
+      "description": "Web app for cover musician integrated with Youtube. This app appointed to do the digital campaign in social media, digital ads and working collaboratively with KOL and Influencers as wel",
+      "img": "/projects/sosialoka.png",
+      "tech": [
+         {
+            "name" : "React JS" 
+         },
+         {
+            "name" : "Laravel 9" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "Firebase" 
+         },
+         {
+            "name" : "Youtube API" 
+         }
+      ],
+      "year" : "2023",
+      "name_app" : "studio.coverclearance.id",
+      "link" : "https://studio.coverclearance.id/"
+   },
+   {
+      "title": "RSKIA Sadewa Hospital App",
+      "description": "Web app register patient to booking schedule apoitment doctor,lab,vaccine, other. This app avaliable to checking booking with webservice and ",
+      "img": "/projects/rskiasadewa-app.png",
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "Kotlin" 
+         },
+         {
+            "name" : "Firebase" 
+         }
+      ],
+      "year" : "2022",
+      "name_app" : "pendaftaran.rskiasadewa.co.id",
+      "link" : "https://pendaftaran.rskiasadewa.co.id"
+   },
+   {
+      "title": "RSKIA Sadewa Hospital Site",
+      "description": "Web app landing page patient to looking schedule doctor,lab,vaccine, other.",
+      "img": "/projects/rskiasadewa-web.png",
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2022",
+      "name_app" : "rskiasadewa.co.id",
+      "link" : "https://rskiasadewa.co.id"
    }
 ]
