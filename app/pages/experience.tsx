@@ -25,6 +25,9 @@ export default function ListExperience() {
                                  clipRule="evenodd"></path>
                            </svg></span></span></a></div>
                   </h3>
+                  {experience.last_position.map((pos, index) => (
+                     <div key={index}><div className="text-slate-500" aria-hidden="true">{pos.jobs}</div></div>
+                  ))}
                   <p className="mt-2 text-sm leading-normal">{experience.description}</p>
                   <ul className="mt-2 flex flex-wrap" aria-label="Technologies used">
                      {experience.skills.map((skills, index) => (
