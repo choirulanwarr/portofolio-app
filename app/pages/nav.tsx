@@ -2,11 +2,11 @@ import { useState } from 'react';
 
 export default function Nav() {
   const [activeLink, setActiveLink] = useState('#about');
-  const handleClick = (link) => {
+  const handleClick = (link:any) => {
     setActiveLink(link);
   };
 
-  const isActive = (link) => activeLink === link;
+  const isActive = (link:any) => activeLink === link;
 
   return (
     <nav className="nav hidden lg:block" aria-label="In-page jump links">
