@@ -53,7 +53,7 @@
       "link" : "https://studio.coverclearance.id/"
    },
    {
-      "title": "RSKIA Sadewa Hospital App",
+      "title": "Sadewa Hospital App",
       "description": "Web app register patient to booking schedule apoitment doctor,lab,vaccine, other. This app avaliable to checking booking with webservice and ",
       "img": "/projects/rskiasadewa-app.png",
       "tech": [
@@ -78,7 +78,7 @@
       "link" : "https://pendaftaran.rskiasadewa.co.id"
    },
    {
-      "title": "RSKIA Sadewa Hospital Site",
+      "title": "Sadewa Hospital Site",
       "description": "Web app landing page patient to looking schedule doctor,lab,vaccine, other.",
       "img": "/projects/rskiasadewa-web.png",
       "tech": [
@@ -97,7 +97,7 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "RSKIA Sadewa Electronic Medical Record",
+      "title": "Sadewa Electronic Medical Record",
       "description": "Web app for patient to look history medical record.",
       "img": null,
       "tech": [
@@ -116,7 +116,7 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "RSKIA Sadewa Absensi",
+      "title": "Sadewa Absensi",
       "description": "Web app for absensi employee or manage day off, or other schedule and payment salary.",
       "img": null,
       "tech": [
@@ -141,7 +141,7 @@
       "link" : "https://sikarsa.rskiasadewa.co.id"
    },
    {
-      "title": "RSKIA Sadewa Payroll",
+      "title": "Sadewa Payroll",
       "description": "Web app for absensi management for manage employee day off, or other schedule, payment salary and other..",
       "img": null,
       "tech": [
@@ -163,7 +163,7 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "RSKIA Sadewa Front Office",
+      "title": "Sadewa Front Office",
       "description": "Web app for manage user register form app and requried to allow payment and schedule a poitment with doctor or notice their patient visit.",
       "img": null,
       "tech": [
@@ -178,10 +178,38 @@
          },
          {
             "name" : "Whatshapp API"
+         },
+         {
+            "name" : "Node Js"
          }
       ],
       "year" : "2021",
       "name_app" : "fo rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Pharmacy Grab Delivery",
+      "description": "Web app for sending drug to patient using grab API.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "AWS Webservice" 
+         },
+         {
+            "name" : "Grab API"
+         },
+         {
+            "name" : "Node JS"
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "pharmacy rskiasadewa",
       "link" : "https://rskiasadewa.co.id"
    }
 ]
