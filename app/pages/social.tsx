@@ -1,5 +1,7 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaInstagram, FaFacebook } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
+import { GoMail } from "react-icons/go";
 
 interface SocialLink {
   link: string;
@@ -11,6 +13,9 @@ const iconMap = {
   FaGithub: FaGithub,
   FaLinkedin: FaLinkedin,
   FaInstagram: FaInstagram,
+  FaXTwitter: FaXTwitter,
+  FaFacebook: FaFacebook,
+  GoMail: GoMail
 };
 
 const socialLinks: SocialLink[] = [
@@ -28,6 +33,21 @@ const socialLinks: SocialLink[] = [
     link: "https://instagram.com/choirulanwarl",
     name: "Instagram",
     icon: "FaInstagram",
+  },
+  {
+    link: "https://x.com/caitusingkatan",
+    name: "Twitter",
+    icon: "FaXTwitter",
+  },
+  {
+    link: "https://www.facebook.com/choirulsubwofer",
+    name: "Facebook",
+    icon: "FaFacebook",
+  },
+  {
+    link: "mailto:find.choirul@gmail.com",
+    name: "Email",
+    icon: "GoMail",
   },
 ];
 
