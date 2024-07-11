@@ -25,7 +25,7 @@ const socialLinks: SocialLink[] = [
     icon: "FaGithub",
   },
   {
-    link: "https://www.linkedin.com/in/choirul-anwar-27398b120/",
+    link: "https://www.linkedin.com/in/choirulanwarr",
     name: "LinkedIn",
     icon: "FaLinkedin",
   },
