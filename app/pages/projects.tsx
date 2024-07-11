@@ -4,6 +4,7 @@ import Image from "next/image"
 export default function Project() {
    return (
    <>
+   <ul className="group/list">
       {projects.slice(0, 4).map((project,index) => (
          <li className="mb-12" key={index}>
             <div
@@ -26,6 +27,7 @@ export default function Project() {
             </div>
          </li>
       ))}
+   </ul>
    </>
    
    )

@@ -2,6 +2,7 @@ import { experiences } from "../data"
 
 export default function ListExperience() {
    return (<>
+   <ol className="group/list">
       {experiences.map((experience, index) => (
          <li className="mb-12" key={index}>
             <div
@@ -42,6 +43,7 @@ export default function ListExperience() {
             </div>
          </li>
       ))}
+      </ol>
    </>
 
    )
