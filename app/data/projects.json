@@ -99,7 +99,7 @@
    {
       "title": "Laundy Clean App",
       "description": "App build using flutter for management.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Flutter" 
@@ -118,7 +118,7 @@
    {
       "title": "Sadewa Electronic Medical Record Site",
       "description": "Web app for patient to look history medical record.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -137,7 +137,7 @@
    {
       "title": "Sadewa Canteen Site",
       "description": "Web app for employee or patinent get snack and food.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Laravel 5" 
@@ -153,7 +153,7 @@
    {
       "title": "Sadewa Epark Site",
       "description": "Web app for access parking using QR code scans.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Laravel 5" 
@@ -169,7 +169,7 @@
    {
       "title": "Sadewa Absence Site",
       "description": "Web app for absensi employee or manage day off, or other schedule and payment salary.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -194,7 +194,7 @@
    {
       "title": "Sadewa Payroll Site",
       "description": "Web app for absensi management for manage employee day off, or other schedule, payment salary and other..",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -216,7 +216,7 @@
    {
       "title": "Sadewa Front Office Site",
       "description": "Web app for manage user register form app and requried to allow payment and schedule a poitment with doctor or notice their patient visit.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -241,7 +241,7 @@
    {
       "title": "Sadewa Pharmacy Grab Site",
       "description": "Web app for sending drug to patient using grab API.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -266,7 +266,7 @@
    {
       "title": "Sadewa Intensive Employee Site",
       "description": "Web app for employee for intensive individual performance.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Codeigniter 3" 
@@ -282,7 +282,7 @@
    {
       "title": "Sadewa Queue Site",
       "description": "Desktop app for display in main lobby patient and for inpatient.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "Java" 
@@ -298,7 +298,7 @@
    {
       "title": "Sadewa Patient Feedback Site",
       "description": "Web app for feedback to company.",
-      "img": null,
+      "img": "",
       "tech": [
          {
             "name" : "HTML" 
