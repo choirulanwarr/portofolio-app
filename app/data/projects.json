@@ -73,7 +73,7 @@
             "name" : "Firebase" 
          }
       ],
-      "year" : "2021",
+      "year" : "2022",
       "name_app" : "pendaftaran.rskiasadewa.co.id",
       "link" : "https://pendaftaran.rskiasadewa.co.id"
    },
@@ -97,7 +97,26 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "Sadewa Electronic Medical Record",
+      "title": "Laundy Clean App",
+      "description": "App build using flutter for management.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Flutter" 
+         },
+         {
+            "name" : "Firebase" 
+         },
+         {
+            "name" : "Android Studio" 
+         }
+      ],
+      "year" : "2022",
+      "name_app" : "laundry clean",
+      "link" : "https://github.com/choirulanwarr/Laundry-App-Kasir"
+   },
+   {
+      "title": "Sadewa Electronic Medical Record Site",
       "description": "Web app for patient to look history medical record.",
       "img": null,
       "tech": [
@@ -116,7 +135,39 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "Sadewa Absensi",
+      "title": "Sadewa Canteen Site",
+      "description": "Web app for employee or patinent get snack and food.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Laravel 5" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2022",
+      "name_app" : "canteen rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Epark Site",
+      "description": "Web app for access parking using QR code scans.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Laravel 5" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2022",
+      "name_app" : "epark.rskiasadewa.co.id",
+      "link" : "https://epark.rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Absence Site",
       "description": "Web app for absensi employee or manage day off, or other schedule and payment salary.",
       "img": null,
       "tech": [
@@ -136,12 +187,12 @@
             "name" : "Telegram API"
          }
       ],
-      "year" : "2020",
+      "year" : "2021",
       "name_app" : "sikarsa.rskiasadewa.co.id",
       "link" : "https://sikarsa.rskiasadewa.co.id"
    },
    {
-      "title": "Sadewa Payroll",
+      "title": "Sadewa Payroll Site",
       "description": "Web app for absensi management for manage employee day off, or other schedule, payment salary and other..",
       "img": null,
       "tech": [
@@ -163,7 +214,7 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "Sadewa Front Office",
+      "title": "Sadewa Front Office Site",
       "description": "Web app for manage user register form app and requried to allow payment and schedule a poitment with doctor or notice their patient visit.",
       "img": null,
       "tech": [
@@ -188,7 +239,7 @@
       "link" : "https://rskiasadewa.co.id"
    },
    {
-      "title": "Sadewa Pharmacy Grab Delivery",
+      "title": "Sadewa Pharmacy Grab Site",
       "description": "Web app for sending drug to patient using grab API.",
       "img": null,
       "tech": [
@@ -208,8 +259,59 @@
             "name" : "Node JS"
          }
       ],
-      "year" : "2022",
+      "year" : "2021",
       "name_app" : "pharmacy rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Intensive Employee Site",
+      "description": "Web app for employee for intensive individual performance.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "iki rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Queue Site",
+      "description": "Desktop app for display in main lobby patient and for inpatient.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Java" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2020",
+      "name_app" : "queue rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "Sadewa Patient Feedback Site",
+      "description": "Web app for feedback to company.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "HTML" 
+         },
+         {
+            "name" : "Javascript" 
+         },
+         {
+            "name" : "MySQL" 
+         }
+      ],
+      "year" : "2020",
+      "name_app" : "patient feedback rskiasadewa",
       "link" : "https://rskiasadewa.co.id"
    }
 ]
