@@ -67,6 +67,9 @@
             "name" : "Kotlin" 
          },
          {
+            "name" : "Android Studio" 
+         },
+         {
             "name" : "Firebase" 
          }
       ],
@@ -84,10 +87,101 @@
          },
          {
             "name" : "MySQL" 
+         },
+         {
+            "name" : "AWS Webservice" 
          }
       ],
       "year" : "2022",
       "name_app" : "rskiasadewa.co.id",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "RSKIA Sadewa Electronic Medical Record",
+      "description": "Web app for patient to look history medical record.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "Telegram API"
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "erm.rskiasadewa.co.id",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "RSKIA Sadewa Absensi",
+      "description": "Web app for absensi employee or manage day off, or other schedule and payment salary.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "AWS Webservice" 
+         },
+         {
+            "name" : "Google Geolocation"
+         },
+         {
+            "name" : "Telegram API"
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "sikarsa.rskiasadewa.co.id",
+      "link" : "https://sikarsa.rskiasadewa.co.id"
+   },
+   {
+      "title": "RSKIA Sadewa Payroll",
+      "description": "Web app for absensi management for manage employee day off, or other schedule, payment salary and other..",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "AWS Webservice" 
+         },
+         {
+            "name" : "Telegram API"
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "payroll rskiasadewa",
+      "link" : "https://rskiasadewa.co.id"
+   },
+   {
+      "title": "RSKIA Sadewa Front Office",
+      "description": "Web app for manage user register form app and requried to allow payment and schedule a poitment with doctor or notice their patient visit.",
+      "img": null,
+      "tech": [
+         {
+            "name" : "Codeigniter 3" 
+         },
+         {
+            "name" : "MySQL" 
+         },
+         {
+            "name" : "AWS Webservice" 
+         },
+         {
+            "name" : "Whatshapp API"
+         }
+      ],
+      "year" : "2021",
+      "name_app" : "fo rskiasadewa",
       "link" : "https://rskiasadewa.co.id"
    }
 ]
