@@ -19,9 +19,9 @@
       "link" : "#"
    },
    {
-      "title": "API Lexilaw Site",
+      "title": "API Gani AI",
       "description": "Native app for client to ask lawyer very simple and easy. View your lawyer filed, booking lawyer and scheduling with lawyer. This app collect information client for lawyer.",
-      "img": "/projects/lexilaw.png",
+      "img": "/projects/ganiai.png",
       "tech": [
          {
             "name" : "React JS" 
@@ -43,8 +43,8 @@
          }
       ],
       "year" : "2024",
-      "name_app" : "Lexilaw AI",
-      "link" : "https://lexiai.io/"
+      "name_app" : "Gani AI",
+      "link" : "https://gani.ai/"
    },
    {
       "title": "API Sosialoka Site",
