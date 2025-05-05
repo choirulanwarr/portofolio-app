@@ -1,5 +1,24 @@
 [
    {
+      "title": "API ZuPoint",
+      "description": "Developed a loyalty and promo engine system that can be easily integrated into the client's existing ecosystem. The system must be able to operate independently while still working alongside the client's existing systems. The system is capable of handling high traffic from the client. Digital Daya Teknologi(Nobu Bank)",
+      "img": "/projects/zupoint.png",
+      "tech": [
+         {
+            "name" : "React JS" 
+         },
+         {
+            "name" : "Golang Gin" 
+         },
+         {
+            "name" : "PostgreSQL" 
+         }
+      ],
+      "year" : "2025",
+      "name_app" : "CMS ZuPoint",
+      "link" : "#"
+   },
+   {
       "title": "API Lexilaw Site",
       "description": "Native app for client to ask lawyer very simple and easy. View your lawyer filed, booking lawyer and scheduling with lawyer. This app collect information client for lawyer.",
       "img": "/projects/lexilaw.png",
@@ -24,8 +43,8 @@
          }
       ],
       "year" : "2024",
-      "name_app" : "lexilaw.com",
-      "link" : "https://www.google.com"
+      "name_app" : "Lexilaw AI",
+      "link" : "https://lexiai.io/"
    },
    {
       "title": "API Sosialoka Site",
@@ -49,7 +68,7 @@
          }
       ],
       "year" : "2023",
-      "name_app" : "studio.coverclearance.id",
+      "name_app" : "Cover Clearance",
       "link" : "https://studio.coverclearance.id/"
    },
    {
@@ -74,7 +93,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "pendaftaran.rskiasadewa.co.id",
+      "name_app" : "RSKIA Sadewa Pendaftaran",
       "link" : "https://pendaftaran.rskiasadewa.co.id"
    },
    {
@@ -93,7 +112,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "rskiasadewa.co.id",
+      "name_app" : "RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -112,7 +131,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "laundry clean",
+      "name_app" : "Laundry Clean",
       "link" : "https://github.com/choirulanwarr/Laundry-App-Kasir"
    },
    {
@@ -131,7 +150,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "erm.rskiasadewa.co.id",
+      "name_app" : "ERM RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -147,7 +166,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "canteen rskiasadewa",
+      "name_app" : "Katin RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -163,7 +182,7 @@
          }
       ],
       "year" : "2022",
-      "name_app" : "epark.rskiasadewa.co.id",
+      "name_app" : "Elektronik Parkir RSKIA Sadewa",
       "link" : "https://epark.rskiasadewa.co.id"
    },
    {
@@ -188,7 +207,7 @@
          }
       ],
       "year" : "2021",
-      "name_app" : "sikarsa.rskiasadewa.co.id",
+      "name_app" : "Presensi RSKIA Sadewa",
       "link" : "https://sikarsa.rskiasadewa.co.id"
    },
    {
@@ -210,7 +229,7 @@
          }
       ],
       "year" : "2021",
-      "name_app" : "payroll rskiasadewa",
+      "name_app" : "Payroll RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -235,7 +254,7 @@
          }
       ],
       "year" : "2021",
-      "name_app" : "fo rskiasadewa",
+      "name_app" : "Front Office RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -260,7 +279,7 @@
          }
       ],
       "year" : "2021",
-      "name_app" : "pharmacy rskiasadewa",
+      "name_app" : "Farmasi RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -276,7 +295,7 @@
          }
       ],
       "year" : "2021",
-      "name_app" : "iki rskiasadewa",
+      "name_app" : "IKI RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -292,7 +311,7 @@
          }
       ],
       "year" : "2020",
-      "name_app" : "queue rskiasadewa",
+      "name_app" : "Queue RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    },
    {
@@ -311,7 +330,7 @@
          }
       ],
       "year" : "2020",
-      "name_app" : "patient feedback rskiasadewa",
+      "name_app" : "Pasien Feedback RSKIA Sadewa",
       "link" : "https://rskiasadewa.co.id"
    }
 ]

@@ -17,8 +17,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="scroll-smooth focus:scroll-auto">
-      <body className="bg-slate-900 leading-relaxed text-slate-400 antialiased selection:bg-teal-300 selection:text-teal-900" cz-shortcut-listen="true">
-        <div className={inter.className}>{children}</div>
+      <body suppressHydrationWarning={true} className={`bg-slate-900 text-slate-400 leading-relaxed antialiased selection:bg-teal-300 selection:text-teal-900 ${inter.className}`}>
+        {children}
       </body>
     </html>
   )

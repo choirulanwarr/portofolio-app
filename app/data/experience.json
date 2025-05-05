@@ -14,16 +14,34 @@
             "language": "PHP"
          },
          {
+            "language": "PostgreSQL"
+         },
+         {
+            "language": "MySQL"
+         },
+         {
             "language": "Javascript"
          },
          {
             "language": "HTML"
+         },
+         {
+            "language": "Gin-Gonic"
+         },
+         {
+            "language": "Laravel"
+         },
+         {
+            "language": "Jira"
+         },
+         {
+            "language": "Postman"
          }
       ]
    },
    {
       "periode" : "Feb 2020 - Jul 2023",
-      "jobs" : "Fullstack Developer ·",
+      "jobs" : "Software Engginer· ",
       "last_position" : [
          {
             "jobs" : "Frontend Developer"
