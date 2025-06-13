@@ -1,6 +1,6 @@
 "use client"
 import React, { useEffect, useState } from 'react';
-import {projects} from "../data"
+import { projects } from "../data"
 
 export default function Project() {
    const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -22,7 +22,7 @@ export default function Project() {
       };
    }, []);
 
-   return ( <>
+   return (<>
       <div className="relative">
          <div className="pointer-events-none fixed inset-0 z-30 transition duration-300 lg:absolute"
             style={{
@@ -42,7 +42,7 @@ export default function Project() {
                      </tr>
                   </thead>
                   <tbody>
-                     {projects.map((project,index) => (
+                     {projects.map((project, index) => (
                         <tr className="border-b border-slate-300/10 last:border-none" key={index}>
                            <td className="py-4 pr-4 align-top text-sm">
                               <div className="translate-y-px">{project.year}</div>
@@ -82,5 +82,5 @@ export default function Project() {
             </div>
          </div>
       </div>
-      </>)
+   </>)
 }

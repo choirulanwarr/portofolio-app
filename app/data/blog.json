@@ -1,14 +1,14 @@
 [
    {
-      "image" : "/blogs/blog_1.png",
-      "year" : "2020",
-      "title" : "Deploying laravel 5",
-      "link" : "https://laravel.com/docs/5.5/deployment"
+      "image": "/blogs/blog_1.png",
+      "year": "2020",
+      "title": "Deploying laravel 5",
+      "link": "https://laravel.com/docs/5.5/deployment"
    },
    {
-      "image" : "/blogs/blog_2.png",
-      "year" : "2023",
-      "title" : "Deploying to Vercel",
-      "link" : "https://vercel.com/docs/deployments/overview"
+      "image": "/blogs/blog_2.png",
+      "year": "2023",
+      "title": "Deploying to Vercel",
+      "link": "https://vercel.com/docs/deployments/overview"
    }
 ]

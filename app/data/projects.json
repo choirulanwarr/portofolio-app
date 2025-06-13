@@ -5,18 +5,18 @@
       "img": "/projects/zupoint.png",
       "tech": [
          {
-            "name" : "React JS" 
+            "name": "React JS"
          },
          {
-            "name" : "Golang Gin" 
+            "name": "Golang Gin"
          },
          {
-            "name" : "PostgreSQL" 
+            "name": "PostgreSQL"
          }
       ],
-      "year" : "2025",
-      "name_app" : "CMS ZuPoint",
-      "link" : "#"
+      "year": "2025",
+      "name_app": "CMS ZuPoint",
+      "link": "#"
    },
    {
       "title": "API Gani AI",
@@ -24,27 +24,27 @@
       "img": "/projects/ganiai.png",
       "tech": [
          {
-            "name" : "React JS" 
+            "name": "React JS"
          },
          {
-            "name" : "Golang Gin" 
+            "name": "Golang Gin"
          },
          {
-            "name" : "PostgreSQL" 
+            "name": "PostgreSQL"
          },
          {
-            "name" : "Mailchimp" 
+            "name": "Mailchimp"
          },
          {
-            "name" : "Calendly" 
+            "name": "Calendly"
          },
          {
-            "name" : "Midtrans" 
+            "name": "Midtrans"
          }
       ],
-      "year" : "2024",
-      "name_app" : "Gani AI",
-      "link" : "https://gani.ai/"
+      "year": "2024",
+      "name_app": "Gani AI",
+      "link": "https://gani.ai/"
    },
    {
       "title": "API Sosialoka Site",
@@ -52,24 +52,24 @@
       "img": "/projects/sosialoka.png",
       "tech": [
          {
-            "name" : "React JS" 
+            "name": "React JS"
          },
          {
-            "name" : "Laravel 9" 
+            "name": "Laravel 9"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "Firebase" 
+            "name": "Firebase"
          },
          {
-            "name" : "Youtube API" 
+            "name": "Youtube API"
          }
       ],
-      "year" : "2023",
-      "name_app" : "Cover Clearance",
-      "link" : "https://studio.coverclearance.id/"
+      "year": "2023",
+      "name_app": "Cover Clearance",
+      "link": "https://studio.coverclearance.id/"
    },
    {
       "title": "Sadewa Hospital App",
@@ -77,24 +77,24 @@
       "img": "/projects/rskiasadewa-app.png",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "Kotlin" 
+            "name": "Kotlin"
          },
          {
-            "name" : "Android Studio" 
+            "name": "Android Studio"
          },
          {
-            "name" : "Firebase" 
+            "name": "Firebase"
          }
       ],
-      "year" : "2022",
-      "name_app" : "RSKIA Sadewa Pendaftaran",
-      "link" : "https://pendaftaran.rskiasadewa.co.id"
+      "year": "2022",
+      "name_app": "RSKIA Sadewa Pendaftaran",
+      "link": "https://pendaftaran.rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Hospital Site",
@@ -102,18 +102,18 @@
       "img": "/projects/rskiasadewa-web.png",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "AWS Webservice" 
+            "name": "AWS Webservice"
          }
       ],
-      "year" : "2022",
-      "name_app" : "RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2022",
+      "name_app": "RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Laundy Clean App",
@@ -121,18 +121,18 @@
       "img": "",
       "tech": [
          {
-            "name" : "Flutter" 
+            "name": "Flutter"
          },
          {
-            "name" : "Firebase" 
+            "name": "Firebase"
          },
          {
-            "name" : "Android Studio" 
+            "name": "Android Studio"
          }
       ],
-      "year" : "2022",
-      "name_app" : "Laundry Clean",
-      "link" : "https://github.com/choirulanwarr/Laundry-App-Kasir"
+      "year": "2022",
+      "name_app": "Laundry Clean",
+      "link": "https://github.com/choirulanwarr/Laundry-App-Kasir"
    },
    {
       "title": "Sadewa Electronic Medical Record Site",
@@ -140,18 +140,18 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "Telegram API"
+            "name": "Telegram API"
          }
       ],
-      "year" : "2022",
-      "name_app" : "ERM RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2022",
+      "name_app": "ERM RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Canteen Site",
@@ -159,15 +159,15 @@
       "img": "",
       "tech": [
          {
-            "name" : "Laravel 5" 
+            "name": "Laravel 5"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          }
       ],
-      "year" : "2022",
-      "name_app" : "Katin RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2022",
+      "name_app": "Katin RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Epark Site",
@@ -175,15 +175,15 @@
       "img": "",
       "tech": [
          {
-            "name" : "Laravel 5" 
+            "name": "Laravel 5"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          }
       ],
-      "year" : "2022",
-      "name_app" : "Elektronik Parkir RSKIA Sadewa",
-      "link" : "https://epark.rskiasadewa.co.id"
+      "year": "2022",
+      "name_app": "Elektronik Parkir RSKIA Sadewa",
+      "link": "https://epark.rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Absence Site",
@@ -191,24 +191,24 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "AWS Webservice" 
+            "name": "AWS Webservice"
          },
          {
-            "name" : "Google Geolocation"
+            "name": "Google Geolocation"
          },
          {
-            "name" : "Telegram API"
+            "name": "Telegram API"
          }
       ],
-      "year" : "2021",
-      "name_app" : "Presensi RSKIA Sadewa",
-      "link" : "https://sikarsa.rskiasadewa.co.id"
+      "year": "2021",
+      "name_app": "Presensi RSKIA Sadewa",
+      "link": "https://sikarsa.rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Payroll Site",
@@ -216,21 +216,21 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "AWS Webservice" 
+            "name": "AWS Webservice"
          },
          {
-            "name" : "Telegram API"
+            "name": "Telegram API"
          }
       ],
-      "year" : "2021",
-      "name_app" : "Payroll RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2021",
+      "name_app": "Payroll RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Front Office Site",
@@ -238,24 +238,24 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "AWS Webservice" 
+            "name": "AWS Webservice"
          },
          {
-            "name" : "Whatshapp API"
+            "name": "Whatshapp API"
          },
          {
-            "name" : "Node Js"
+            "name": "Node Js"
          }
       ],
-      "year" : "2021",
-      "name_app" : "Front Office RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2021",
+      "name_app": "Front Office RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Pharmacy Grab Site",
@@ -263,24 +263,24 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          },
          {
-            "name" : "AWS Webservice" 
+            "name": "AWS Webservice"
          },
          {
-            "name" : "Grab API"
+            "name": "Grab API"
          },
          {
-            "name" : "Node JS"
+            "name": "Node JS"
          }
       ],
-      "year" : "2021",
-      "name_app" : "Farmasi RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2021",
+      "name_app": "Farmasi RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Intensive Employee Site",
@@ -288,15 +288,15 @@
       "img": "",
       "tech": [
          {
-            "name" : "Codeigniter 3" 
+            "name": "Codeigniter 3"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          }
       ],
-      "year" : "2021",
-      "name_app" : "IKI RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2021",
+      "name_app": "IKI RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Queue Site",
@@ -304,15 +304,15 @@
       "img": "",
       "tech": [
          {
-            "name" : "Java" 
+            "name": "Java"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          }
       ],
-      "year" : "2020",
-      "name_app" : "Queue RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2020",
+      "name_app": "Queue RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    },
    {
       "title": "Sadewa Patient Feedback Site",
@@ -320,17 +320,17 @@
       "img": "",
       "tech": [
          {
-            "name" : "HTML" 
+            "name": "HTML"
          },
          {
-            "name" : "Javascript" 
+            "name": "Javascript"
          },
          {
-            "name" : "MySQL" 
+            "name": "MySQL"
          }
       ],
-      "year" : "2020",
-      "name_app" : "Pasien Feedback RSKIA Sadewa",
-      "link" : "https://rskiasadewa.co.id"
+      "year": "2020",
+      "name_app": "Pasien Feedback RSKIA Sadewa",
+      "link": "https://rskiasadewa.co.id"
    }
 ]
