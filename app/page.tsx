@@ -5,7 +5,6 @@ import Footer from './pages/footer';
 import Project from './pages/projects';
 import Social from './pages/social';
 import Nav from './pages/nav';
-import Blog from './pages/blog';
 
 export default function Home() {
    const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
